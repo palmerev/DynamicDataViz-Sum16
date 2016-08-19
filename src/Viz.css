@@ -1,0 +1,10 @@
+svg {
+  display: block;
+  margin: 50px auto;
+  background-color: cornflowerblue;
+}
+
+svg text {
+  font-size: 12px;
+  font-family: sans-serif;
+}
